@@ -1,0 +1,11 @@
+C:\VSProject\resumeGenerator\resumeGenerator\bin\Debug\resumeGenerator.exe.config
+C:\VSProject\resumeGenerator\resumeGenerator\bin\Debug\resumeGenerator.exe
+C:\VSProject\resumeGenerator\resumeGenerator\bin\Debug\resumeGenerator.pdb
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.csprojResolveAssemblyReference.cache
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.Form1.resources
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.Properties.Resources.resources
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.csproj.GenerateResource.Cache
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.exe
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.pdb
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.Form2.resources
+C:\VSProject\resumeGenerator\resumeGenerator\obj\Debug\resumeGenerator.getFile.resources
